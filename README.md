@@ -1,5 +1,5 @@
 # Data Mining Final Project
-This project investigates the presence and distribution of per- and polyfluoroalkyl substances (PFAS) in drinking water sources. PFAS are synthetic chemicals widely used in industrial and consumer products that have been linked to environmental and health risks. Using data mining techniques, we will analyze contamination levels, identify potential sources, and explore trends across different geographic locations.
+This project investigates the presence and distribution of per- and polyfluoroalkyl substances (PFAS) in drinking water sources. PFAS are synthetic chemicals widely used in industrial and consumer products that have been linked to environmental and health risks. Using data mining techniques, we will analyze contamination levelDTs, identify potential sources, and explore trends across different geographic locations.
 
 ## Research Questions
 Some possible research questions for this project include: 
